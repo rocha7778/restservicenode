@@ -1,0 +1,14 @@
+1. Job sizing: how big is this job and how long do you expect it to take
+
+2.Job structure: How will you do the work? what will you do first,second and so on?
+
+3.Job status: how will you know where you are?
+
+4.Assessment: how good was the plan? did you make any obvious errors?
+
+recommend:
+
+the plan must be based on doing a define piece of work.
+the job steps should be cleary defined and mesurable.
+you sould check the plan with your customer.
+periodically report progress to your customer.

@@ -1,0 +1,5 @@
+1.Iniciar la applicacion en internet explorer.
+2.Iniciar la applicacion en mozilla
+3.Iniciar la applicacion en crhome
+4. regitrar todos las observaciones iniciales.
+4. trabajar directamente en internet explorer. 

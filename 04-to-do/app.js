@@ -29,8 +29,6 @@ switch (comando) {
 
 
     case 'borrar':
-        console.log('borrar tarea');
-        console.log('borrar tarea', descripcion);
         console.log(porHacer.borrar(descripcion));
         break;
 

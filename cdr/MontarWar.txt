@@ -1,0 +1,5 @@
+1. para generar el war y montarlo en el portlet hacer una pausa y preguntarse, que debeo montar?
+donde esta hubicado?
+como se llama?
+necesita alguna libreria extra?
+ya corri todos los script de pruebas y revisiones?
