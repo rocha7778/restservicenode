@@ -1,0 +1,28 @@
+{
+    "name": "platziverse-db",
+    "version": "1.0.0",
+    "description": "A simple IoI Platform -DB Module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "standard"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rocha7778/node.git"
+    },
+    "author": "luis.rocha",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rocha7778/node/issues"
+    },
+    "homepage": "https://github.com/rocha7778/node#readme",
+    "devDependencies": {
+        "standard": "^12.0.1"
+    },
+    "dependencies": {
+        "pg": "^7.6.1",
+        "pg-hstore": "^2.3.2",
+        "sequelize": "^4.41.1"
+    }
+}

@@ -1,0 +1,2 @@
+standard --fix
+npm run lint -- --fix
