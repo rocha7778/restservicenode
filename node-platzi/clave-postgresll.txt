@@ -1,2 +1,5 @@
 postgres
 root
+
+platziverse--->database
+platzi--------->role andn user
