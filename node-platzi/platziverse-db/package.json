@@ -4,7 +4,7 @@
     "description": "A simple IoI Platform -DB Module",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "SET DEBUG=platziverse:* && nyc --reporter=lcov ava test/ --verbose",
         "lint": "standard",
         "setup": "SET DEBUG=platziverse:* && node setup.js"
     },
@@ -19,10 +19,18 @@
     },
     "homepage": "https://github.com/rocha7778/node#readme",
     "devDependencies": {
+        "ava": "^0.25.0",
+        "proxyquire": "^2.1.0",
+        "sinon": "^7.1.1",
+        "sqlite3": "^4.0.4",
         "standard": "^12.0.1"
     },
     "dependencies": {
+        "chalk": "^2.4.1",
         "debug": "^4.1.0",
+        "defaults": "^1.0.3",
+        "inquirer": "^6.2.0",
+        "nyc": "^13.1.0",
         "pg": "^7.6.1",
         "pg-hstore": "^2.3.2",
         "sequelize": "^4.41.1"
